@@ -1,5 +1,5 @@
 <img src="Black Modern Personal LinkedIn Banner (1).png" alt="GitHub Banner" width="100%"/>
-# Hi! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="25" height="25" /> 
+
 # 💫 About Me:
 <img align="right" width="370" height="290" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611xih6xix4dwciiynwp6775mgd27h48ltbtcxi10f7&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 🎓 Pursuing Bachelor's in Computer Science<br>💻 Skilled in full-stack web development<br>🤖 Interested in AI and blockchain technologies<br>🌍 Focused on solving real-world problems<br>🚀 Passionate about innovative and impactful projects<br>📚 Dedicated to continuous learning and growth<br>🧠 Exploring machine learning for practical solutions <br/><br/><br/><br/>
