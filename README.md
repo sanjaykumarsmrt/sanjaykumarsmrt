@@ -26,7 +26,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaykumarsmrt&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) <br/>
 
 
-## 🏆 GitHub Trophies:
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Trophy.webp" alt="Trophy" width="25" height="25" /> GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=sanjaykumarsmrt&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Chart%20Increasing.webp" alt="Chart Increasing" width="25" height="25" /> GitHub Activity Graph:
@@ -35,7 +35,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" alt="Man Technologist" width="25" height="25" /> LeetCode Stats:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sanjaysanjukumar?theme=dark&font=Marcellus&ext=contest)
 
-### ✍<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Writing%20Hand.webp" alt="Writing Hand" width="25" height="25" /> Random Dev Quote:
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Writing%20Hand.webp" alt="Writing Hand" width="25" height="25" /> Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <picture>
