@@ -1,6 +1,6 @@
 <img src="Black Modern Personal LinkedIn Banner (1).png" alt="GitHub Banner" width="100%"/>
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Dizzy.webp" alt="Dizzy" width="25" height="25" /> About Me:
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Dizzy.webp" alt="Dizzy" width="35" height="35" /> About Me:
 
 
 <img align="right" width="370" height="290" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611xih6xix4dwciiynwp6775mgd27h48ltbtcxi10f7&ep=v1_gifs_search&rid=giphy.gif&ct=g">
