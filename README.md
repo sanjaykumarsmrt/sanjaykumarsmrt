@@ -14,7 +14,7 @@
 - <span> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Thought%20Balloon.webp" alt="Thought Balloon" width="25" height="25" /> <span style="vertical-align: middle;">Exploring machine learning for practical solutions</span> </span><br/><br/><br/><br/><br/>
 
 
-## 🌐 Socials:
+##  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Dizzy.webp" alt="Dizzy" width="35" height="35" /> Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sanjaykumarpathma23) 
 #
 
