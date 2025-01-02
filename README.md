@@ -35,7 +35,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" alt="Man Technologist" width="25" height="25" /> LeetCode Stats:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sanjaysanjukumar?theme=dark&font=Marcellus&ext=contest)
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Writing%20Hand.webp" alt="Writing Hand" width="25" height="25" /> Random Dev Quote:
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Writing%20Hand.webp" alt="Writing Hand" width="25" height="25" /> Random Dev Quote: <hr/>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <picture>
