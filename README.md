@@ -4,9 +4,10 @@
 
 
 <img align="right" width="370" height="290" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611xih6xix4dwciiynwp6775mgd27h48ltbtcxi10f7&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-- 🎓 Pursuing Bachelor's in Computer Science<br>
-- 💻 Skilled in full-stack web development<br>
-- 🤖 Interested in AI and blockchain technologies<br>
+
+- <span> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" alt="Graduation Cap" width="25" height="25" /> <span style="vertical-align: middle;">  Pursuing Bachelor's in Computer Science</span> </span><br/><br/>
+- <span> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" /> <span style="vertical-align: middle;">Skilled in full-stack web development</span> </span><br/><br/>
+- <span><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Robot.webp" alt="Robot" width="25" height="25" /> <span style="vertical-align: middle;"> Interested in AI and blockchain technologies</span> </span><br/><br/>
 - <span> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30d/512.gif" alt="🌍" width="25" height="25"> <span style="vertical-align: middle;"> Focused on solving real-world problems</span> </span><br/><br/>
 - <span> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" alt="Rocket" width="25" height="25" /> <span style="vertical-align: middle;"> Passionate about innovative and impactful projects</span> </span><br/><br/>
 - <span> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="25" height="25"/> <span style="vertical-align: middle;">Dedicated to continuous learning and growth</span> </span><br/><br/>
