@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-🎓 Pursuing Bachelor's in Computer Science<br>💻 Skilled in full-stack web development<br>🤖 Interested in AI and blockchain technologies<br>🌍 Focused on solving real-world problems<br>🚀 Passionate about innovative and impactful projects<br>📚 Dedicated to continuous learning and growth<br>🧠 Exploring machine learning for practical solutions <br/><br/><br/>
+🎓 Pursuing Bachelor's in Computer Science<br>💻 Skilled in full-stack web development<br>🤖 Interested in AI and blockchain technologies<br>🌍 Focused on solving real-world problems<br>🚀 Passionate about innovative and impactful projects<br>📚 Dedicated to continuous learning and growth<br>🧠 Exploring machine learning for practical solutions <br/><br/><br/><br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sanjaykumarpathma23) 
