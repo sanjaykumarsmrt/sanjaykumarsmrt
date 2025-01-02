@@ -7,7 +7,7 @@
 - 🤖 Interested in AI and blockchain technologies<br>
 - 🌍 Focused on solving real-world problems<br>
 - 🚀 Passionate about innovative and impactful projects<br>
-<span> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="25" height="25"/> <span style="vertical-align: middle;">Dedicated to continuous learning and growth</span> </span>
+- <span> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="25" height="25"/> <span style="vertical-align: middle;">Dedicated to continuous learning and growth</span> </span><br/>
 - 🧠 Exploring machine learning for practical solutions <br/><br/><br/><br/>
 
 ## 🌐 Socials:
