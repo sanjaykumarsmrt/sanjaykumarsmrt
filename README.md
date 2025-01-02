@@ -8,7 +8,9 @@
 - 🌍 Focused on solving real-world problems<br>
 - 🚀 Passionate about innovative and impactful projects<br>
 - <span> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="25" height="25"/> <span style="vertical-align: middle;">Dedicated to continuous learning and growth</span> </span><br/>
-- 🧠 Exploring machine learning for practical solutions <br/><br/><br/><br/>
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="25" height="25"/> Dedicated to continuous learning and growth
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Brain.webp" alt="Brain" width="25" height="25"/> Exploring machine learning for practical solutions
+<br/><br/><br/><br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sanjaykumarpathma23) 
