@@ -52,3 +52,11 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+
+---
+
+Thank you for visiting my GitHub profile! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60a/512.gif" alt="😊" width="25" height="25"> I appreciate your time and interest. I'm excited to connect, collaborate, and innovate together. Feel free to explore my projects and reach out to me.
+
+Best regards,
+
+Sanjay Kumar  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="25" width="32" height="25">
