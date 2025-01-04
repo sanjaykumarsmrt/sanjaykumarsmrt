@@ -8,8 +8,9 @@
     I'm Sanjay Kumar <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f603/512.gif" alt="😃" width="35" height="35"> 
 </h1>
 
-<h2 align="center"> <a href="#h1"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=450&lines=Welcome+to+my+GitHub+profile!;I+am+a+Computer+Science+graduate;Full-stack+web+development+focus;Interest+in+AI+and+blockchain;Solving+real-world+problems;Creating+innovative+solutions;From+India+😊" alt="Aspiring Full-stack web developer" /> </a> </h2>
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Dizzy.webp" alt="Dizzy" width="35" height="35" /> About Me:
+<h2 align="center"> <a href="#h1"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=450&lines=Passionate+about+Technology;Full-stack+Web+Developer;AI+and+Blockchain+Enthusiast;Solving+Real-World+Problems;Innovating+for+the+Future;From+India+😊" alt="Typing SVG" /> </a> </h2>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Dizzy.webp" alt="Dizzy" width="35" height="35" /> About Me:
 
 <img align="right" width="370" height="290" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400">
 
