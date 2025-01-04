@@ -4,8 +4,7 @@
 </a>
 
 <h1 align="center">
-    Hi there! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="35" height="35"/>,
-    I'm Sanjay Kumar <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f603/512.gif" alt="😃" width="35" height="35"> 
+    Hi there! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="35" height="35"/>,  I'm Sanjay Kumar <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f603/512.gif" alt="😃" width="35" height="35"> 
 </h1>
 
 <h2 align="center"> <a href="#h1"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=450&lines=Welcome+to+my+GitHub+profile!;Computer+Science+Graduate;Full-stack+Web+Developer;AI+and+Blockchain+Enthusiast;Solving+Real-World+Problems;Innovating+for+the+Future" alt="Typing SVG" /> </a> </h2>
