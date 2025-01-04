@@ -18,7 +18,7 @@
 - <span> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30d/512.gif" alt="🌍" width="25" height="25"> <span style="vertical-align: middle;"> Focused on solving real-world problems</span> </span><br/><br/>
 - <span> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" alt="Rocket" width="25" height="25" /> <span style="vertical-align: middle;"> Passionate about innovative and impactful projects</span> </span><br/><br/>
 - <span> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="25" height="25"/> <span style="vertical-align: middle;">Dedicated to continuous learning and growth</span> </span><br/><br/>
-- <span> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Thought%20Balloon.webp" alt="Thought Balloon" width="25" height="25" /> <span style="vertical-align: middle;">Exploring machine learning for practical solutions</span> </span><br/><br/><br/><br/><br/>
+- <span> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Thought%20Balloon.webp" alt="Thought Balloon" width="25" height="25" /> <span style="vertical-align: middle;">Exploring machine learning for practical solutions</span> </span><br/><br/><br/>
 
 
 ##  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone%20With%20Arrow.webp" alt="Mobile Phone With Arrow" width="25" height="25" /> Socials:
