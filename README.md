@@ -1,6 +1,4 @@
 
-[![asciicast](https://asciinema.org/a/113463.png)](https://www.canva.com/design/DAGbNH1jwAM/UI7jRUDjahqmdRoCwtI-3g/view?utm_content=DAGbNH1jwAM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
-
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Dizzy.webp" alt="Dizzy" width="35" height="35" /> About Me:
 
 <img align="right" width="370" height="290" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400">
