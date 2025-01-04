@@ -4,7 +4,7 @@
 </a>
 
 <h1 align="center">
-    Hi! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="35" height="35"/>,
+    Hi there! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="35" height="35"/>,
     I'm Sanjay Kumar <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f603/512.gif" alt="😃" width="35" height="35"> 
 </h1>
 
