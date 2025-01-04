@@ -1,4 +1,4 @@
-<img src="Black Modern Personal LinkedIn Banner (1).png" alt="GitHub Banner" width="100%"/>
+
 <video width="800" height="450" controls>
   <source src="Free Universe Stars Video Gif Animated Zoom Virtual Background.mp4" type="video/mp4">
   Your browser does not support the video tag.
