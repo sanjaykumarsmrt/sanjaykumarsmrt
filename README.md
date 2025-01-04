@@ -1,4 +1,9 @@
+<!-- Banner Section -->
+<a href="#" target="_blank" rel="noreferrer">
+    <img src="https://www.digitalsolutionservices.com/img/services/web%20development.gif" alt="Banner Loading...">
+</a>
 
+# Hi! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32"/>
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Dizzy.webp" alt="Dizzy" width="35" height="35" /> About Me:
 
 <img align="right" width="370" height="290" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400">
