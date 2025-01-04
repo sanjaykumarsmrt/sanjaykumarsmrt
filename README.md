@@ -3,10 +3,7 @@
     <img src="https://www.digitalsolutionservices.com/img/services/web%20development.gif" alt="Banner Loading...">
 </a>
 
-<h1 align="center">
-    Hi there! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="35" height="35"/>,
-    I'm Sanjay Kumar <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f603/512.gif" alt="😃" width="35" height="35"> 
-</h1>
+
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Dizzy.webp" alt="Dizzy" width="35" height="35" /> About Me:
 
