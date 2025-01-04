@@ -41,7 +41,7 @@
 [![Sanjay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sanjaykumarsmrt&bg_color=000000&color=884c9e&line=0af587&point=e61e32&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" alt="Man Technologist" width="25" height="25" /> LeetCode Stats:
-![LeetCode Stats](https://leetcard.jacoblin.cool/sanjaykumarsmrt?theme=transparent&font=Marcellus&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/sanjaykumarsmrt?theme=wtf&font=Marcellus&ext=heatmap)
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Writing%20Hand.webp" alt="Writing Hand" width="25" height="25" /> Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
