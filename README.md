@@ -33,6 +33,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25"/> GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sanjaykumarsmrt&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaykumarsmrt&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) <br/>
+<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="200"/>
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Trophy.webp" alt="Trophy" width="25" height="25" /> GitHub Trophies:
