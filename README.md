@@ -32,8 +32,8 @@
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25"/>GitHub Stats:
+<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="400">
 ![](https://github-readme-stats.vercel.app/api?username=sanjaykumarsmrt&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-<img align="right" width="350" height="270" src="https:/github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58"/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaykumarsmrt&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) <br/>
 
 
