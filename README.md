@@ -8,11 +8,17 @@
     I'm Sanjay Kumar <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f603/512.gif" alt="😃" width="35" height="35"> 
 </h1>
 
+<h2 align="center"> 
+    <a href="#h1"> <img src="https://readme-typing-svg.demolab.com?                              font=Fira+Code&weight=500&duration=4000&pause=1500&color=F7F7F7&center=true&vCenter=true&random=false&width=450&lines=Welcome+to+my+GitHub+profile!;I'm+a+passionate+Computer+Science+gr 
+duate;Focusing+on+full-stack+web+development;Keen+interest+in+AI+and+blockchain+technologies;Solving+real-world+problems+using+technology+...!;From+India+😊" alt="Aspiring Full-stack web developer"/> 
+    </a> 
+</h2>
+
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Dizzy.webp" alt="Dizzy" width="35" height="35" /> About Me:
 
 <img align="right" width="370" height="290" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400">
 
-- <span> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" alt="Graduation Cap" width="25" height="25" /> <span style="vertical-align: middle;">  Pursuing Bachelor's in Computer Science</span> </span><br/><br/>
+- <span> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" alt="Graduation Cap" width="25" height="25" /> <span style="vertical-align: middle;">  Earned a Bachelor's degree in Computer Science</span> </span><br/><br/>
 - <span> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" /> <span style="vertical-align: middle;">Skilled in full-stack web development</span> </span><br/><br/>
 - <span><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Robot.webp" alt="Robot" width="25" height="25" /> <span style="vertical-align: middle;"> Interested in AI and blockchain technologies</span> </span><br/><br/>
 - <span> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30d/512.gif" alt="🌍" width="25" height="25"> <span style="vertical-align: middle;"> Focused on solving real-world problems</span> </span><br/><br/>
